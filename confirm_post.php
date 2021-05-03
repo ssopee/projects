@@ -54,36 +54,18 @@ print_r($result[1]['confirm_post']);
                                             </tr>
                                         <?php } ?>
                                     <?php } ?>
-
                                 </tbody>
-
-
-
                             </table>
                         </div>
-
-
-
-
-
-
                     </div>
-
                 </div>
-
             </div>
-
-
-
         </div>
     </div>
-
-
     <script>
         function Clicktoask() {
             alert('please login for share');
         }
     </script>
 </body>
-
 </html>
